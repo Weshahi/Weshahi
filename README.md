@@ -7,7 +7,7 @@
  <a href="https://github.com/Weshahi" alt="Ahmad Alweshahi's github">
    <img src="https://img.shields.io/badge/-@Weshahi-%23181717?style=flat-square&logo=github" />
  </a>
- <a href="https://www.linkedin.com/in/ahmad-alweshahi" alt="Ahmad Alweshahi's linkedin">
+ <a href="https://www.linkedin.com/in/weshahi" alt="Ahmad Alweshahi's linkedin">
    <img src="https://img.shields.io/badge/-AhmadAlweshahi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-alweshahi" />
  </a>
 </p>
