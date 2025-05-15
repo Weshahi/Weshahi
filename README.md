@@ -8,10 +8,8 @@
     <img src="https://img.shields.io/badge/-@Weshahi-%23181717?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
 <a href="https://www.linkedin.com/in/weshahi" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>
-    <br/>
-    LinkedIn
-  </a>
+  <img src="https://img.shields.io/badge/Ahmad_Alweshahi-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   <a href="mailto:a.alweshahy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-alweshahy@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
