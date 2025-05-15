@@ -82,10 +82,10 @@ I am committed to developing **transformative digital solutions** that power org
 
 ### 🏆 Achievements
 
-- Successfully integrated Zoom APIs into the Faseh platform, enhancing user experience.
-- Led the modernization of legacy .NET applications into a scalable ASP.NET Core architecture.
-- Awarded "Employee of the Year" at **THIQAH** (2024).
-- Spearheaded the development of critical services for the **Saudi Food and Drug Authority (SFDA)**.
+- Recognized for outstanding contributions to high-impact projects at **THIQAH**.
+- Successfully integrated Zoom APIs into the Faseh platform, enhancing service delivery.
+- Led modernization efforts, migrating legacy .NET systems to scalable ASP.NET Core architectures.
+- Spearheaded development initiatives for platforms supporting the **Saudi Food and Drug Authority (SFDA)**.
 
 ---
 
