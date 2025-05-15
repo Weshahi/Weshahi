@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/weshahi" target="_blank">
     <img src="https://img.shields.io/badge/-AhmadAlweshahi-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:weshahi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-weshahi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:alweshahy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-alweshahy@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
