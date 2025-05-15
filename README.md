@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 As a **Staff Software Developer** at **THIQAH**, I bring over **13 years of experience** in building scalable and efficient web solutions.  
-I specialize in **.NET Framework**, **XML**, and **MVC**, delivering high-impact applications that enhance user experience and align with strategic business goals — particularly for platforms like the **Faseh services system** supporting the **Saudi Food and Drug Authority (SFDA)**.
+I specialize in **.NET Framework**, **Entity Framework Core**, **XML**, and **MVC**, delivering high-impact applications that enhance user experience and align with strategic business goals — particularly for platforms like the **Faseh services system** supporting the **Saudi Food and Drug Authority (SFDA)**.
 
 Passionate about innovation, I leverage **AI technologies** to craft faster, smarter, and more efficient solutions that drive digital transformation and operational excellence.  
 Notable achievements include integrating advanced web systems with platforms like **Zoom**, streamlining operations and boosting functionality.
@@ -34,6 +34,9 @@ I am committed to developing **transformative digital solutions** that power org
   </a>
   <a href="https://angular.io" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="margin:8px;">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Entity_Framework_Logo.png" height="50px" alt="ef-core" style="margin:8px;">
   </a>
   <a href="https://github.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="margin:8px;">
