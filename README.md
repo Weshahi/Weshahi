@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/weshahi" target="_blank">
     <img src="https://img.shields.io/badge/-AhmadAlweshahi-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:alweshahy@gmail.com" target="_blank">
+  <a href="mailto:a.alweshahy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-alweshahy@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -104,7 +104,7 @@ I am committed to developing **transformative digital solutions** that power org
 
 If you want to collaborate, discuss software architecture, AI development, or explore innovative tech ideas, feel free to reach out:
 
-- 📫 Email: [alweshahy@gmail.com](mailto:alweshahy@gmail.com)
+- 📫 Email: [a.alweshahy@gmail.com](mailto:a.alweshahy@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/weshahi](https://www.linkedin.com/in/weshahi)
 
 ---
