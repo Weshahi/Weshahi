@@ -58,6 +58,8 @@ I am committed to developing **transformative digital solutions** that power org
 
 ### 🌟 Let's Connect
 
-If you want to collaborate, discuss software architecture, AI in development, or simply chat about the future of tech, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/weshahi)!
+If you want to collaborate, discuss software architecture, AI in development, or simply chat about the future of tech, feel free to reach out:
 
+- 📫 Email: [weshahi@gmail.com](mailto:a.alweshahy@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/weshahi](https://www.linkedin.com/in/weshahi)
 ---
