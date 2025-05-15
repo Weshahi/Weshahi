@@ -73,7 +73,7 @@ I am committed to developing **transformative digital solutions** that power org
 
 ### 🎯 Current Focus
 
-- Deepening skills in Azure DevOps Pipelines and CI/CD.
+- Practical experience with Azure DevOps Pipelines and CI/CD workflows.
 - Exploring AI-assisted development using OpenAI APIs and ML.NET.
 - Enhancing frontend architecture using PrimeNG and Angular best practices.
 - Developing microservices with ASP.NET Core.
