@@ -44,6 +44,9 @@ I am committed to developing **transformative digital solutions** that power org
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" style="margin:8px;">
   </a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure DevOps" style="margin:8px;">
+  </a>
   <a href="https://www.atlassian.com/software/bitbucket" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" alt="Bitbucket" style="margin:8px;">
   </a>
@@ -57,7 +60,7 @@ I am committed to developing **transformative digital solutions** that power org
 - SQL Server  
 - REST APIs Integration  
 - SignalR  
-- Azure DevOps  
+- Azure DevOps Pipelines and CI/CD workflows  
 - GitHub Actions (CI/CD)  
 - AI Solutions (OpenAI APIs, ML.NET)
 
